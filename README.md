@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Varshini287
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Varshini287/Varshini287 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Varshini H A
+- 🌱 I’m currently learning B.E in AI&DS at MUSE
+- 👀 I’m interested in coding, gardening and cooking 
+- 💞️ I’m looking to collaborate in cutting-edge project and applications related AI 
+- 📫 How to reach me varshiniha2003@gmail,com, www.linkedin.com/in/varshini-h-a-74417a317.
