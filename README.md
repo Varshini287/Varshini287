@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Varshini H A
-- 🌱 I’m currently learning B.E in AI&DS at MUSE
-- 👀 I’m interested in coding, gardening and cooking 
-- 💞️ I’m looking to collaborate in cutting-edge project and applications related AI 
-- 📫 How to reach me varshiniha2003@gmail.com, www.linkedin.com/in/varshini-h-a-74417a317.
+-  Hi, I’m Varshini H A
+-  I’m currently completing B.E in AI&DS at MUSE
+-  I’m looking to collaborate in cutting-edge project and applications related AI 
+-  How to reach me varshiniha2003@gmail.com, www.linkedin.com/in/varshini-h-a-74417a317.
