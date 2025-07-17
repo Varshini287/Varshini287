@@ -1,4 +1,4 @@
 -  Hi, I’m Varshini H A
--  I’m currently completing B.E in AI&DS at MUSE
+-  Recent graduate in B.E in AI&DS at MUSE
 -  I’m looking to collaborate in cutting-edge project and applications related AI 
 -  How to reach me varshiniha2003@gmail.com, www.linkedin.com/in/varshini-h-a-74417a317.
